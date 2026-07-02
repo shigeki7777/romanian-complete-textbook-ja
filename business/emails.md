@@ -235,9 +235,9 @@ Kenji Sato
 | ルーマニア語 | IPA/発音 | 日本語訳 | 使う位置 | レジスター |
 |---|---|---|---|---|
 | Vă contactez în legătură cu... | /və kon.takˈtez ɨn le.ɡəˈtu.rə ku/ | 〜の件でご連絡しています | 本文冒頭 | 標準〜フォーマル |
-| Vă scriu pentru a vă propune... | /və skri.u ˈpen.tru a və proˈpu.ne/ | 〜をご提案したくご連絡します | 本文冒頭 | 標準〜フォーマル |
+| Vă scriu pentru a vă propune... | /və ˈskri.u ˈpen.tru a və proˈpu.ne/ | 〜をご提案したくご連絡します | 本文冒頭 | 標準〜フォーマル |
 | Revin cu detalii. | /reˈvin ku deˈta.li.i/ | 詳細について改めてご連絡します | 本文中〜末尾 | 標準 |
-| Vă scriu pentru a reveni cu privire la... | /və skri.u ˈpen.tru a reˈve.ni ku ˈpri.vi.re la/ | 〜について改めてご連絡します | 本文冒頭(フォローアップ) | 標準〜フォーマル |
+| Vă scriu pentru a reveni cu privire la... | /və ˈskri.u ˈpen.tru a re.veˈni ku ˈpri.vi.re la/ | 〜について改めてご連絡します | 本文冒頭(フォローアップ) | 標準〜フォーマル |
 | Atașat găsiți... | /a.taˈʃat ɡəˈsitsʲ/ | 添付にて〜をご確認ください | 本文末尾近く | 標準〜フォーマル |
 | Vă mulțumesc anticipat. | /və mul.t͡suˈmesk an.ti.t͡siˈpat/ | あらかじめ御礼申し上げます | 本文末尾 | フォーマル |
 | În așteptarea răspunsului dumneavoastră. | /ɨn aʃ.tepˈta.re.a rəsˈpun.su.lui dum.ne̯aˈvo̯as.trə/ | ご返信をお待ちしております | 本文末尾 | フォーマル |
