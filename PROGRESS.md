@@ -3,58 +3,59 @@
 > このファイルは自律構築ループの SSoT。毎ループ末尾に更新する。
 > 状態: ✅ 完了 / 🔨 進行中 / 📋 未着手
 
-最終更新: 2026-07-02(Loop 4 完了時点)
+最終更新: 2026-07-02(A1〜C2 全レベル本編完成時点)
 
 ## フェーズ進捗
 
 | フェーズ | 状態 | 備考 |
 |---|---|---|
 | Phase 1 設計(ガバナンス文書) | ✅ | 12 文書 |
-| Phase 2 基盤(骨格・index・overview) | ✅ | 69 md ファイル体制 |
-| Phase 3 A1–A2 本編 | ✅ | A1 14 章 + A2 13 章(全章に練習・解答・テスト) |
-| Phase 4 B1–B2 本編 | 📋 | 次ループの最優先 |
-| Phase 5 C1–C2 本編 | 📋 | |
-| Phase 6 専門セクション拡張 | 🔨 | grammar 3 本・core-500 のみ完了。medical/business/culture/history の各章は未執筆 |
-| Phase 7 品質レビュー | 🔨 | 毎ループの機械検査+抽出レビューは実施済み。ネイティブレビューは未 |
+| Phase 2 基盤(骨格・index・overview) | ✅ | |
+| Phase 3 A1–A2 本編 | ✅ | A1 14 章 + A2 13 章 |
+| Phase 4 B1–B2 本編 | ✅ | B1 13 章 + B2 12 章 |
+| Phase 5 C1–C2 本編 | ✅ | C1 12 章 + C2 11 章 |
+| Phase 6 専門セクション拡張 | 🔨 | 下記「未完了」参照 — 基幹章のみ完了 |
+| Phase 7 品質レビュー | 🔨 | 機械検査+抽出レビューは毎ループ実施。横断ネイティブレビューは未 |
 | Phase 8 仕上げ | 📋 | |
 
-## 作成済みファイル(2026-07-02 時点・69 ファイル)
+## 完成済み(2026-07-02 時点・130 md ファイル・約 40,000 行)
 
-- ガバナンス 12: README / LICENSE / CONTRIBUTING / CHANGELOG / ROADMAP / STYLE_GUIDE / SOURCE_POLICY / QUALITY_CHECKLIST / cefr-map / study-plan / bibliography / PROGRESS
-- 00-orientation 4 / レベル overview 6 / セクション index 15 / tools 2
-- **01-a1: 全 14 章 ✅** / **02-a2: 全 13 章 ✅**
-- grammar: articles / present-tense / past-tenses
-- vocabulary: core-500 ハブ + 4 分冊(496 語)
+- **レベル別本編 75 章すべて**(A1:14 / A2:13 / B1:13 / B2:12 / C1:12 / C2:11)— 各レベルに overview・文法・会話・読解・作文・練習・解答・チェックポイントテスト・橋渡しの完全な学習列
+- ガバナンス 12 / orientation 4 / セクション index 15 / tools 2
+- grammar/ 7 本(articles, present-tense, past-tenses, subjunctive, conditional, cases, pronouns)
+- vocabulary/ core-500(496語)+ core-1000(491語)
+- medical/ 3 本(overview, anatomy, symptoms — 出典付き)
+- business/ 2 本(overview, emails)
+- history/ 2 本(overview, language-history — 出典付き)+ culture/ 1 本(romania-and-moldova — 出典付き)
 
 ## 未完了・次にやるべきこと(優先順)
 
-1. **B1 本編 13 章**(03-b1/01〜12)— 接続法・条件法・半過去の導入章は grammar/subjunctive.md, conditional.md を先に書いてアンカーにすると品質が安定する(A2 で past-tenses.md を先行させた方式の踏襲)
-2. grammar/ 続き: subjunctive / conditional / nouns / gender / cases / pronouns(B1 で必要になる順)
-3. medical/ の基幹 3 章: overview(制度は出典必須)/ anatomy / symptoms — A2 第7章から `medical/*.md` への参照をリンク化する
-4. business/ overview + emails(B1 の business-email-b1 のアンカー)
-5. vocabulary/core-1000(A2→B1 の語彙目標)
-6. B2 → C1 → C2 本編(各レベル、章執筆 → 総復習 → 解答 → テスト → 橋渡しの順)
-7. culture/ history/ 全章(**WebSearch で出典確認してから執筆** — SOURCE_POLICY 厳守)
-8. reading/ listening/ speaking/ writing/ idioms/ verb-conjugation/ exercises/ answer-key/ glossary/ の各章
-9. 全体そろい後: Phase 7 横断品質レビュー(ネイティブチェック依頼を CONTRIBUTING 経由で募る)
+1. **medical/ 残り 9 章**: diagnosis, hospital-dialogues, patient-interview, medication, emergency, informed-consent, medical-interpretation, medical-documents, japanese-romanian-medical-glossary(C1/C2 の医療章が「送り先」として参照済み — 被参照の解消が急務)
+2. **business/ 残り 12 章**: etiquette, meetings, presentations, negotiation, contracts, startups, sales, hr, finance, consulting, cross-cultural-communication(B2/C2 の該当章と整合させる)
+3. **grammar/ 残り 21 本**: phonetics-and-orthography, nouns, gender, adjectives, numerals, verbs-overview, future-tenses, imperative, infinitive-gerund-participle, reflexive-verbs, modal-verbs, prepositions, conjunctions, word-order, negation, questions, relative-clauses, subordinate-clauses, reported-speech, discourse-markers, advanced-syntax
+4. **verb-conjugation/ 全 7 本**(essential-100-verbs が最優先)
+5. **vocabulary/ 残り**: core-3000, core-5000, テーマ別 13 本(daily-life〜slang-and-colloquial)
+6. **reading/ listening/ speaking/ writing/ idioms/ exercises/ answer-key/ glossary/ の各章**(本編が参照する graded-readers 系から)
+7. **culture/ 残り 10 章 + history/ 残り 8 章**(WebSearch 出典必須)
+8. **Phase 7**: 横断品質レビュー(IPA 表記の流派統一・章間重複チェック・ネイティブレビュー募集)
+9. **Phase 8**: README 更新(完成状況の反映)・全体索引・最終検査
 
 ## 品質上の懸念(オープン — ネイティブ確認推奨リスト)
 
-執筆エージェントが自己申告した「確信度がやや低い」箇所。誤りと確認されたものではない。
+各執筆エージェントの自己申告(誤り確定ではない)。Phase 7 で一括処理する。
 
-- 02-a2/07: Mă doare în gât(în あり形)の頻度感 / De azi-dimineață のハイフン / 112 通報の実務慣習
-- 02-a2/08: Te pup・Toate cele bune のレジスター境界(親密度ライン)
-- 02-a2/01: 再帰動詞 a se îmbrăca の活用(mă îmbrac — 標準形で記載済み、念のため)
-- 02-a2/02: チップ 10% 目安・ciorbă/supă の区別などの文化記述(「目安」表現で緩衝済み)
-- 01-a1/07: brânzeturi / cărnuri(種類複数)の語彙表掲載の妥当性、口語数詞縮約 -șpe の地域差
-- 04 章の o să 3 人称形(meargă/vină/plece/facă/aibă/fie)— 標準形として正しいはずだが最終校閲対象
-- IPA 全般: 二重母音の半母音表記(o̯a/wa 等)の流派統一は Phase 7 で一括点検
+- IPA: 二重母音の半母音表記(o̯a 等)の流派統一 / autonom の音節境界 / 各章の個別報告分
+- A2: Te pup・Toate cele bune のレジスター境界 / brânzeturi・cărnuri の掲載妥当性 / チップ 10% 目安
+- B1: punctele dumneavoastră forte の語順 / câte 配分用法 / 面接定型の地域差
+- B2: ar urma să の報道頻度 / cafeluță の DOOM3 正形 / 俗語 a da colțul・lovele の世代差
+- C1: anterior + 与格の硬さ / 縮約形の等位接続 / dânsul の地域差記述
+- C2: suna a vecernie / Se au în vedere măsuri(意図的な limbaj de lemn 見本)/ halal treabă の皮肉専用度 / banc 自作 2 本の自然さ / beton・mișto 等俗語の世代注記
+- 出典: Britannica/Wikipedia 依拠の通史事実を政府・学術一次出典へ順次置換(bibliography.md の注記参照)/ 話者数の確定(INS/statistica.gov.md)
 
 ## 出典確認が必要な箇所(オープン)
 
-- 00-orientation/03: ルーマニア語話者数(要出典マーク付きで保守的表現にしてある — INS/EU 統計で確定する)
-- culture/ history/ の執筆時: 全事実に SOURCE_POLICY 準拠の出典が必要(未執筆)
-- medical/overview 執筆時: ルーマニア医療制度(CNAS)・EHIC は公式サイトで確認
+- 00-orientation/03 の話者数(要出典マーク済み)
+- culture/ history/ の残り章はすべて執筆時に WebSearch 出典確認が必要
 
 ## 再開用プロンプト
 
@@ -63,24 +64,19 @@
 (GitHub: shigeki7777/romanian-complete-textbook-ja) の
 「日本語話者向けルーマニア語完全教科書」構築を担当する Fable 5 です。
 
-前回までの進捗: A1 全14章・A2 全13章・参照文法3本(articles/present-tense/
-past-tenses)・語彙 core-500(496語)・全ガバナンス文書が完成済み(69ファイル、
-検証スクリプト green、全て GitHub に push 済み)。
+前回までの進捗: A1〜C2 の全レベル本編 75 章が完成(検証 green・push 済み)。
+参照文法 7 本・core-500/1000・medical/business/history/culture の基幹章も完成。
 
-1. まず本ファイル(PROGRESS.md)と STYLE_GUIDE.md / QUALITY_CHECKLIST.md を読む
-2. 「未完了・次にやるべきこと」の 1 番(B1 本編)から自律実行ループを再開する。
-   手順: grammar/subjunctive.md と conditional.md を先に執筆(Opus 委任+検査)
-   → B1 章 01〜08 を 2〜3 エージェントに並列委任(章ごとの使用可能文法リストを
-   プロンプトに明示)→ 09〜12(総復習/解答/テスト/橋渡し)は全章完成後に
-   1 エージェントで整合執筆 → cefr-map リンク化
-3. 執筆規約: STYLE_GUIDE 章テンプレート厳守 / コンマ付き ș・ț / IPA 強勢必須 /
-   委任成果は必ず抽出検査(特に IPA の強勢位置・語末 -i の口蓋化・活用形)
-   / サブエージェントに commit させず親が一括 commit+push(頻繁に)
-4. 各ループ末尾: python3 tools/validate-markdown.py と tools/check-links.py を
-   実行 → 修正 → cefr-map/CHANGELOG/PROGRESS 更新 → commit+push → 継続判定
-5. 歴史・制度・統計は SOURCE_POLICY に従い WebSearch で出典確認してから書く
-6. 「品質上の懸念」リストは消し込まず蓄積する(Phase 7 の一括ネイティブ
-   レビューの入力になる)
+1. まず本ファイル(PROGRESS.md)と STYLE_GUIDE.md を読む
+2. 「未完了・次にやるべきこと」の 1 番(medical/ 残り 9 章)から再開する。
+   委任パターン: 高精度領域(医療・法務・文法)= Opus / フォーマット駆動
+   (語彙表・練習・読解)= Sonnet / Fable は設計・抽出検査・commit のみ
+3. 章ごとの「使用可能文法・既習語彙」を親が明示指定し、既存の参照章
+   (medical/index.md の役割定義・被参照章)と整合させる
+4. 各バッチ末尾: tools/validate-markdown.py + check-links.py → 修正 →
+   該当 index リンク化 → cefr-map/CHANGELOG/PROGRESS 更新 → commit+push
+5. culture/history は WebSearch で出典確認してから執筆(SOURCE_POLICY)
+6. 「品質上の懸念」は消さず蓄積(Phase 7 の一括ネイティブレビュー入力)
 
-完成条件を満たすまで自律実行ループを継続してください。
+完成条件(全セクション執筆+Phase 7-8)を満たすまで自律ループを継続する。
 ```
