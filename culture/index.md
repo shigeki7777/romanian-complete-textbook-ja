@@ -24,7 +24,7 @@
 | `humor.md` | ユーモア・皮肉・自虐など笑いの文化と含意の読み取り方 | C1〜C2 | 📋 計画済み |
 | `taboo-topics.md` | 避けるべき話題・繊細な話題の扱い方 | B2〜C1 | 📋 計画済み |
 | `regional-differences.md` | 地方ごとの気質・方言的特徴・都市部と地方の差異 | C1〜C2 | 📋 計画済み |
-| `romania-and-moldova.md` | ルーマニアとモルドバ共和国の歴史的・社会言語的な関係と差異 | C1〜C2 | 📋 計画済み |
+| [`romania-and-moldova.md`](./romania-and-moldova.md) | ルーマニアとモルドバ共和国の歴史的・社会言語的な関係と差異 | 読み物(C1〜C2 相当) | ✅ 完了 |
 
 ## 学習の目安
 

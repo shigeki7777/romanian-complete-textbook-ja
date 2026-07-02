@@ -48,7 +48,21 @@
 | 出典 | 用途 | URL |
 |---|---|---|
 | Academia Română — Istoria limbii române 関連刊行物 | 言語史 | https://acad.ro/ |
+| Academia Română — A Brief History(1866 年設立等) | 学士院の歴史 | https://academiaromana.ro/academia2002/acadeng/pag_brief.htm |
+| DOOM3 公式オンライン版 | 正書法規範 | https://doom.lingv.ro/ |
 | 各章で参照した個別の学術文献 | 歴史・社会 | 各章末に記載 |
+
+## 法制・現代事情(歴史・文化章)
+
+| 出典 | 用途 | URL |
+|---|---|---|
+| Library of Congress — Global Legal Monitor | モルドバ 2023 年言語法 | https://www.loc.gov/item/global-legal-monitor/2023-04-23/moldova-new-law-establishes-romanian-as-the-state-language-of-the-country/ |
+| ConstitutionNet | モルドバ言語改正の手続き | https://constitutionnet.org/news/unpacking-moldovas-language-amendment-constitutional-procedural-and-political-dimensions |
+| RFE/RL(報道・現代事情の補助) | モルドバ言語法可決 | https://www.rferl.org/a/moldova-parliament-approves-final-reading-romanian-language-bill/32321571.html |
+
+## 百科・補助出典(注記付き)
+
+- Encyclopædia Britannica および英語版 Wikipedia の個別記事を、**争いのない通史的事実のアンカー**として補助的に使用している(各章末に記事 URL を記載)。SOURCE_POLICY の趣旨に照らし、可能な箇所から順次、政府・学術一次出典へ置き換えることを推奨する(進捗は PROGRESS.md「出典確認が必要な箇所」で管理)。
 
 ## 参照日の記録
 
