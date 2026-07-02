@@ -20,8 +20,8 @@
 | 期間 | 内容 |
 |---|---|
 | 1〜4か月 | A1 本編(週2章ペース)+ 毎日10分の発音ドリル |
-| 5〜10か月 | A2 本編 + [vocabulary/core-500](./vocabulary/core-500.md) の定着 |
-| 11〜22か月 | B1 本編 + [reading/graded-readers-b1](./reading/graded-readers-b1.md) 並行 |
+| 5〜10か月 | A2 本編 + `vocabulary/core-500.md` の定着 |
+| 11〜22か月 | B1 本編 + `reading/graded-readers-b1.md` 並行 |
 | 2〜3年目 | B2 本編 + 専門編([medical/](./medical/index.md) or [business/](./business/index.md))の必要章 |
 | 3年目以降 | C1〜C2 + ネイティブ素材(ニュース・文学)中心へ移行 |
 

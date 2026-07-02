@@ -8,20 +8,20 @@
 
 | ファイル | CEFR | 技能 | 状態 |
 |---|---|---|---|
-| [01-a1/00-a1-overview.md](./01-a1/00-a1-overview.md) | A1 | 導入 | ✅ |
-| [01-a1/01-pronunciation-and-alphabet.md](./01-a1/01-pronunciation-and-alphabet.md) | A1 | 発音・文字 | ✅ |
-| [01-a1/02-basic-greetings.md](./01-a1/02-basic-greetings.md) | A1 | 会話 | ✅ |
-| [01-a1/03-nouns-and-gender-intro.md](./01-a1/03-nouns-and-gender-intro.md) | A1 | 文法 | ✅ |
-| [01-a1/04-present-tense-of-a-fi.md](./01-a1/04-present-tense-of-a-fi.md) | A1 | 文法 | ✅ |
-| [01-a1/05-basic-word-order.md](./01-a1/05-basic-word-order.md) | A1 | 文法 | ✅ |
-| [01-a1/06-self-introduction-dialogue.md](./01-a1/06-self-introduction-dialogue.md) | A1 | 会話 | ✅ |
-| [01-a1/07-daily-life-vocabulary.md](./01-a1/07-daily-life-vocabulary.md) | A1 | 語彙 | ✅ |
-| [01-a1/08-short-reading-my-family.md](./01-a1/08-short-reading-my-family.md) | A1 | 読解 | ✅ |
-| [01-a1/09-writing-simple-sentences.md](./01-a1/09-writing-simple-sentences.md) | A1 | 作文 | ✅ |
-| [01-a1/10-a1-review-exercises.md](./01-a1/10-a1-review-exercises.md) | A1 | 練習 | ✅ |
-| [01-a1/11-a1-answer-key.md](./01-a1/11-a1-answer-key.md) | A1 | 解答 | ✅ |
-| [01-a1/12-a1-checkpoint-test.md](./01-a1/12-a1-checkpoint-test.md) | A1 | テスト | ✅ |
-| [01-a1/13-bridge-to-a2.md](./01-a1/13-bridge-to-a2.md) | A1→A2 | 橋渡し | ✅ |
+| `01-a1/00-a1-overview.md` | A1 | 導入 | 🔨 |
+| `01-a1/01-pronunciation-and-alphabet.md` | A1 | 発音・文字 | 🔨 |
+| `01-a1/02-basic-greetings.md` | A1 | 会話 | 🔨 |
+| `01-a1/03-nouns-and-gender-intro.md` | A1 | 文法 | 🔨 |
+| `01-a1/04-present-tense-of-a-fi.md` | A1 | 文法 | 🔨 |
+| `01-a1/05-basic-word-order.md` | A1 | 文法 | 🔨 |
+| `01-a1/06-self-introduction-dialogue.md` | A1 | 会話 | 🔨 |
+| `01-a1/07-daily-life-vocabulary.md` | A1 | 語彙 | 🔨 |
+| `01-a1/08-short-reading-my-family.md` | A1 | 読解 | 🔨 |
+| `01-a1/09-writing-simple-sentences.md` | A1 | 作文 | 🔨 |
+| `01-a1/10-a1-review-exercises.md` | A1 | 練習 | 🔨 |
+| `01-a1/11-a1-answer-key.md` | A1 | 解答 | 🔨 |
+| `01-a1/12-a1-checkpoint-test.md` | A1 | テスト | 🔨 |
+| `01-a1/13-bridge-to-a2.md` | A1→A2 | 橋渡し | 🔨 |
 | [02-a2/00-a2-overview.md](./02-a2/00-a2-overview.md) | A2 | 導入 | ✅ |
 | 02-a2/01〜12(13章) | A2 | 各技能 | 📋 |
 | [03-b1/00-b1-overview.md](./03-b1/00-b1-overview.md) | B1 | 導入 | ✅ |

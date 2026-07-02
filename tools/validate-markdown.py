@@ -34,8 +34,9 @@ def validate(root: Path) -> int:
                                                          "SOURCE_POLICY.md", "QUALITY_CHECKLIST.md", "PROGRESS.md"):
             problems.append(f"{rel}: filename violates convention (lowercase-hyphen.md)")
         text = md.read_text(encoding="utf-8")
-        # STYLE_GUIDE documents the forbidden cedilla forms as examples
-        cedilla_exempt = name == "STYLE_GUIDE.md"
+        # These files document the forbidden cedilla forms as explicit warnings
+        cedilla_exempt = name in ("STYLE_GUIDE.md", "02-pronunciation-overview.md",
+                                  "01-pronunciation-and-alphabet.md")
         for ch, label in ({} if cedilla_exempt else CEDILLA).items():
             if ch in text:
                 n = text.count(ch)
