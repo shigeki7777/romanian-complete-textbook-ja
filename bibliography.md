@@ -19,6 +19,11 @@
 | Ministerul Afacerilor Externe (外務省) | 対外関係・EU/NATO | https://www.mae.ro/ |
 | Ministerul Sănătății (保健省) | 医療制度 | https://www.ms.ro/ |
 | CNAS — Casa Națională de Asigurări de Sănătate (国民健康保険庁) | 健康保険制度 | https://cnas.ro/ |
+| CNAS — 家庭医(medic de familie)の役割案内 | 一次医療・紹介状(trimitere)制度 | http://www.cnas.ro/casmb/page/servicii-oferite-de-medicul-de-familie.html |
+| Legea nr. 95/2006 privind reforma în domeniul sănătății | 医療制度の根拠法 | https://legislatie.just.ro/ で検索 |
+| CEASS — Cardul European de Asigurări Sociale de Sănătate(発行: CNAS) | 欧州健康保険カード(ルーマニア側) | https://www.cardeuropean.ro/ |
+| European Commission — EHIC | 欧州健康保険カード(EU 側) | https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/european-health-insurance-card_en |
+| European Commission — 112 | EU 共通緊急番号 | https://digital-strategy.ec.europa.eu/en/policies/112 |
 | Ministerul Educației (教育省) | 教育制度 | https://www.edu.ro/ |
 | INS — Institutul Național de Statistică (国家統計局) | 人口・統計 | https://insse.ro/ |
 
