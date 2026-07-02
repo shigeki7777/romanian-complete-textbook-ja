@@ -13,7 +13,7 @@
 | ファイル | 内容 | 主対象 CEFR | 状態 |
 |---|---|---|---|
 | `phonetics-and-orthography.md` | 音韻体系と正書法(DOOM3 準拠)、ダイアクリティクス(ă/â/î/ș/ț)、î/â の使い分け規則 | A1 | 📋 計画済み |
-| `articles.md` | 定冠詞(articol hotărât、後置型)・不定冠詞(articol nehotărât)・属格冠詞(articol posesiv/genitival)の形態と使い分け | A1〜A2 | 📋 計画済み |
+| [articles.md](./articles.md) | 定冠詞(articol hotărât、後置型)・不定冠詞(articol nehotărât)・属格冠詞(articol posesiv/genitival)の形態と使い分け | A1〜A2 | ✅ 執筆済み |
 | `nouns.md` | 名詞の単数・複数形、語尾変化パターン、名詞化 | A1〜A2 | 📋 計画済み |
 | `gender.md` | 男性(masculin)・女性(feminin)・中性(neutru)の3性体系、中性名詞が単数で男性・複数で女性として振る舞う規則 | A1〜A2 | 📋 計画済み |
 | `cases.md` | 格(caz)体系(主格・対格・与格・属格・呼格)、名詞・冠詞・形容詞の格変化 | A2〜B1 | 📋 計画済み |
@@ -21,8 +21,8 @@
 | `pronouns.md` | 人称代名詞・所有代名詞・指示代名詞・関係代名詞・与格/対格の弱形代名詞(clitic) | A1〜B1 | 📋 計画済み |
 | `numerals.md` | 基数詞・序数詞、名詞との性一致、19以降の数の作り方 | A1〜A2 | 📋 計画済み |
 | `verbs-overview.md` | 動詞体系の全体像、活用グループ(4群)の見取り図、時制・法の一覧表 | A1 | 📋 計画済み |
-| `present-tense.md` | 直説法現在(prezentul indicativ)の用法、進行中の動作・習慣・近接未来としての用法 | A1 | 📋 計画済み |
-| `past-tenses.md` | 複合過去(perfectul compus)・半過去(imperfectul)・単純過去(perfectul simplu)・大過去(mai-mult-ca-perfectul)の使い分け | A2〜B1 | 📋 計画済み |
+| [present-tense.md](./present-tense.md) | 直説法現在(prezentul indicativ)の用法、進行中の動作・習慣・近接未来としての用法 | A1 | ✅ 執筆済み |
+| [past-tenses.md](./past-tenses.md) | 複合過去(perfectul compus)・半過去(imperfectul)・単純過去(perfectul simplu)・大過去(mai-mult-ca-perfectul)の使い分け | A2〜B1 | ✅ 執筆済み |
 | `future-tenses.md` | 単純未来・口語未来(o să)・前未来(viitorul anterior)の使い分けとレジスター差 | A2〜B1 | 📋 計画済み |
 | `subjunctive.md` | 接続法(conjunctiv)の形態(să + 動詞)と、意志・目的・可能性を表す用法 | B1 | 📋 計画済み |
 | `conditional.md` | 条件法(conditional-optativ)現在形・過去形、仮定文における接続法との組み合わせ | B1 | 📋 計画済み |

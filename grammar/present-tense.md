@@ -57,9 +57,7 @@
 | voi | lucr**ați** | /luˈkrat͡sʲ/ |
 | ei, ele | lucr**ează** | /luˈkre̯a.zə/ |
 
-注目すべきは、**-ez が現れるのは eu / tu / el,ea / ei,ele の4か所だけ**で、noi と voi は素の活用と同じ(-ăm / -ați)である点だ。つまり lucrăm・lucrați には -ez がない。同型: a lucra、a dansa(踊る: dansez…)、a fuma(吸う: fumez…)、a repara(直す: repar型ではなく reparez… ではない ⚠ 実は a repara は repar 型=素活用)。
-
-どちらの型かは規則では完全に予測できないため、**新出の -a 動詞は eu 形(lucrez か intru か)をセットで覚える**のが実務的である。
+注目すべきは、**-ez が現れるのは eu / tu / el,ea / ei,ele の4か所だけ**で、noi と voi は素の活用と同じ(-ăm / -ați)である点だ。つまり lucrăm・lucrați には -ez がない。同型: a dansa(踊る: dansez…)、a fuma(吸う: fumez…)、a forma(形づくる: formez…)。どちらの型かは規則で完全には予測できないため、**新出の -a 動詞は eu 形(lucrez か intru か)をセットで覚える**のが実務的である。
 
 ---
 
@@ -76,7 +74,7 @@
 | voi | ve**deți** | /veˈdet͡sʲ/ |
 | ei, ele | v**ăd** | /vəd/ |
 
-eu と ei,ele が văd で同形。語幹母音が e→ă に交替している(ved- → văd)。第 II 群は数が少なく(a vedea, a plăcea, a părea など)、不規則動詞 a putea, a vrea, a bea も歴史的にはこの群に近い。
+eu と ei,ele が văd で同形。語幹母音が e→ă に交替している(ved- → văd)。第 II 群は数が少ない(a vedea, a plăcea, a părea など)。
 
 ### 3.2 第 III 群:a merge(行く)と a face(する)
 
@@ -91,7 +89,7 @@ eu と ei,ele が văd で同形。語幹母音が e→ă に交替している(
 | voi | merg**eți** | /merˈd͡ʒet͡sʲ/ | fac**eți** | /faˈt͡ʃet͡sʲ/ |
 | ei, ele | merg | /merɡ/ | fac | /fak/ |
 
-ここで発音の重要点。語幹末の g / c は、後ろの母音が e / i のとき **g→/d͡ʒ/、c→/t͡ʃ/** と軟音化する。だから merg /merɡ/(硬音)だが mergi /merd͡ʒʲ/(軟音)になる。この綴りと音のずれは第1章の発音規則の延長である。第 III 群も eu と ei,ele が同形(merg / fac)になる。
+発音の重要点。語幹末の g / c は後ろの母音が e / i のとき **g→/d͡ʒ/、c→/t͡ʃ/** と軟音化する(merg /merɡ/ 硬音 → mergi /merd͡ʒʲ/ 軟音)。第 III 群も eu と ei,ele が同形(merg / fac)になる。
 
 ---
 
@@ -110,11 +108,11 @@ eu と ei,ele が văd で同形。語幹母音が e→ă に交替している(
 | voi | dorm**iți** | /dorˈmit͡sʲ/ |
 | ei, ele | dorm | /dorm/ |
 
-3人称単数 doarme で語幹母音が o→oa に交替している(§6 参照)。eu と ei,ele は dorm で同形。同型: a fugi(逃げる: fug, fugi, fuge…)、a simți(感じる)。
+3人称単数 doarme で語幹母音が o→oa に交替(§6)。eu と ei,ele は dorm で同形。同型: a fugi(逃げる)、a simți(感じる)。
 
 ### 4.2 -esc 拡張(a vorbi 型)
 
-第 IV 群の多くは、語幹と語尾の間に **-esc-** を挿入する。第 I 群の -ez と対をなす仕組みである。
+第 IV 群の多くは、語幹と語尾の間に **-esc-** を挿入する(第 I 群の -ez と対をなす仕組み)。
 
 | 人称 | a vorbi(話す) | IPA |
 |---|---|---|
@@ -146,7 +144,7 @@ eu と ei,ele が văd で同形。語幹母音が e→ă に交替している(
 
 ## 5. 頻出不規則動詞(完全活用表)
 
-最重要の不規則動詞は丸暗記が必要である。使用頻度順に並べる。
+最重要の不規則動詞は丸暗記が必要である。使用頻度順に、a fi / a avea / a vrea / a putea / a ști / a da / a sta / a lua / a mânca / a bea を並べる。
 
 ### 5.1 a fi(〜である)と a avea(持つ)
 
@@ -204,25 +202,16 @@ a mânca は綴りが難物。eu mănânc は最初が mă-(/mə/)だが、noi m
 
 ## 6. 語幹の音交替(規則)
 
-活用中に語幹の母音・子音が規則的に変わる現象は、最初は不規則に見えるが法則がある。
-
-### 6.1 母音交替 o → oa / e → ea
-
-強勢が語幹母音に来る人称(典型は 3人称単数)で、**o が二重母音 oa に、e が ea に開く**。
+活用中の語幹の変化は不規則に見えて法則がある。柱は2つ。**①母音交替**:強勢が語幹母音に来る人称(典型は3人称単数)で o→oa、e→ea に開く。**②子音の軟音化**:語幹末の g / c / t は後ろの母音 e / i の前で軟音化する(g→/d͡ʒ/ mergi、c→/t͡ʃ/ faci、t→/t͡s/ 複数 -i の前)— 綴りは変わらず音だけ変わる。
 
 | 動詞 | eu(弱勢) | el,ea(強勢) | 交替 |
 |---|---|---|---|
 | a putea | pot | p**oa**te | o→oa |
 | a dormi | dorm | d**oa**rme | o→oa |
 | a coborî | cobor | cob**oa**ră | o→oa |
-| a vedea | văd | — | (別交替) |
 | a ședea(座る) | șed | ș**ea**de | e→ea |
 
-覚え方: 「強勢が当たると o は oa、e は ea に割れる」。この交替は現在形だけでなく多くの活用で顔を出すので、原理を理解しておくと後が楽になる。
-
-### 6.2 子音の軟音化(g/c/t → 前舌母音の前で)
-
-前述のとおり、語幹末の g / c / t は後ろの母音 e / i の前で軟音化する: g→/d͡ʒ/(mergi)、c→/t͡ʃ/(faci)、t→/t͡s/(複数の -i の前など)。綴りは変わらないが音が変わる。
+覚え方は「強勢が当たると o は oa、e は ea に割れる」。この交替は現在形以外にも顔を出すので、原理で覚えると後が楽になる。
 
 ---
 
@@ -238,9 +227,7 @@ a mânca は綴りが難物。eu mănânc は最初が mă-(/mə/)だが、noi m
 | 近接未来 | Mâine plec la Cluj. | 明日クルージュに発つ | 明日 発つ に クルージュ | 〜する(予定) |
 | 一般的真理 | Apa fierbe la 100 de grade. | 水は100度で沸く | 水-その 沸く に 100 度 | 〜する(真理) |
 
-決定的なのは3行目と4行目である。日本語の「読んでいる(進行)」に専用の進行形はなく **Citesc.(現在形)** で表す。「明日発つ(近接未来)」も未来形を使わず現在形 **plec** で足りる。つまり、日本語話者が「〜ている」「〜する予定」と言いたいとき、まず現在形で言えないか考えるのが正しい発想である。
-
-進行を特に強調したいときだけ、口語で「(今まさに)〜している最中だ」という言い回し sunt în curs de a… / tocmai… を使うが、A1〜A2 では現在形で押し切ってよい。
+決定的なのは3行目と4行目である。日本語の「読んでいる(進行)」に専用の進行形はなく **Citesc.(現在形)** で表す。「明日発つ(近接未来)」も未来形を使わず現在形 **plec** で足りる。つまり、日本語話者が「〜ている」「〜する予定」と言いたいとき、まず現在形で言えないか考えるのが正しい発想である。進行を特に強調したいときだけ tocmai…(ちょうど〜している)を添えるが、A1〜A2 では現在形で押し切ってよい。
 
 ### 7.1 例文(6列)
 
@@ -248,7 +235,6 @@ a mânca は綴りが難物。eu mănânc は最初が mă-(/mə/)だが、noi m
 |---|---|---|---|---|---|
 | Lucrez la un proiect. | /luˈkrez la un proˈjekt/ | プロジェクトに取り組んでいる | 働く に 1つの プロジェクト | a lucra(-ez型)。進行の意味 | 中立 |
 | Nu știu răspunsul. | /nu ʃti.u rəsˈpun.sul/ | 答えを知らない | 否定 知る 答え-その | a ști 不規則。否定は動詞の前に nu | 中立 |
-| Ce mănânci? | /t͡ʃe məˈnɨnt͡ʃʲ/ | 何を食べてるの? | 何 食べる(君) | a mânca。進行を現在形で | くだけた |
 | Mergem la mare vara. | /merˈd͡ʒem la ˈma.re ˈva.ra/ | 夏は海に行く | 行く に 海 夏に | 習慣の現在形 | 中立 |
 | Poți să mă ajuți? | /pot͡sʲ sə mə aˈʒut͡sʲ/ | 手伝ってくれる? | できる(君) 〜を 私を 助ける | a putea + 接続法(→ `grammar/subjunctive.md`) | 丁寧め・依頼 |
 
@@ -321,10 +307,9 @@ a mânca は綴りが難物。eu mănânc は最初が mă-(/mə/)だが、noi m
 
 ## 12. 本編での学習箇所
 
-- a fi の現在形(最初の完全活用):[01-a1/04-present-tense-of-a-fi.md](../01-a1/04-present-tense-of-a-fi.md)
-- 主語代名詞の省略と語順:[01-a1/05-basic-word-order.md](../01-a1/05-basic-word-order.md)
+- a fi の現在形(最初の完全活用)と主語代名詞の省略:[01-a1/04-present-tense-of-a-fi.md](../01-a1/04-present-tense-of-a-fi.md)・[01-a1/05-basic-word-order.md](../01-a1/05-basic-word-order.md)
 - 語幹の軟音化(g→/d͡ʒ/ 等)の発音基礎:[01-a1/01-pronunciation-and-alphabet.md](../01-a1/01-pronunciation-and-alphabet.md)
-- 規則動詞4群の本格導入:A1 後半〜A2 の動詞章 `02-a2/grammar/present-tense-regular-verbs.md`(未執筆)
+- 規則動詞4群の本格導入:A2 の動詞章 `02-a2/grammar/present-tense-regular-verbs.md`(未執筆)
 - a putea / a vrea + 接続法(依頼・意志):`grammar/subjunctive.md`(未執筆)・`grammar/modal-verbs.md`(未執筆)
 - 全活用形の一覧・活用表:[verb-conjugation/](../verb-conjugation/index.md)
 
