@@ -23,7 +23,18 @@
 | [01-a1/12-a1-checkpoint-test.md](./01-a1/12-a1-checkpoint-test.md) | A1 | テスト | ✅ |
 | [01-a1/13-bridge-to-a2.md](./01-a1/13-bridge-to-a2.md) | A1→A2 | 橋渡し | ✅ |
 | [02-a2/00-a2-overview.md](./02-a2/00-a2-overview.md) | A2 | 導入 | ✅ |
-| 02-a2/01〜12(13章) | A2 | 各技能 | 📋 |
+| [02-a2/01-daily-routines.md](./02-a2/01-daily-routines.md) | A2 | 文法・語彙 | ✅ |
+| [02-a2/02-shopping-and-restaurants.md](./02-a2/02-shopping-and-restaurants.md) | A2 | 会話 | ✅ |
+| [02-a2/03-basic-past-tense.md](./02-a2/03-basic-past-tense.md) | A2 | 文法 | ✅ |
+| [02-a2/04-basic-future-expressions.md](./02-a2/04-basic-future-expressions.md) | A2 | 文法 | ✅ |
+| [02-a2/05-objects-and-pronouns.md](./02-a2/05-objects-and-pronouns.md) | A2 | 文法 | ✅ |
+| [02-a2/06-travel-and-transport.md](./02-a2/06-travel-and-transport.md) | A2 | 会話 | ✅ |
+| [02-a2/07-basic-medical-situations.md](./02-a2/07-basic-medical-situations.md) | A2 | 会話・専門 | ✅ |
+| [02-a2/08-basic-email-and-messages.md](./02-a2/08-basic-email-and-messages.md) | A2 | 作文 | ✅ |
+| [02-a2/09-a2-review-exercises.md](./02-a2/09-a2-review-exercises.md) | A2 | 練習 | ✅ |
+| [02-a2/10-a2-answer-key.md](./02-a2/10-a2-answer-key.md) | A2 | 解答 | ✅ |
+| [02-a2/11-a2-checkpoint-test.md](./02-a2/11-a2-checkpoint-test.md) | A2 | テスト | ✅ |
+| [02-a2/12-bridge-to-b1.md](./02-a2/12-bridge-to-b1.md) | A2→B1 | 橋渡し | ✅ |
 | [03-b1/00-b1-overview.md](./03-b1/00-b1-overview.md) | B1 | 導入 | ✅ |
 | 03-b1/01〜12(13章) | B1 | 各技能 | 📋 |
 | [04-b2/00-b2-overview.md](./04-b2/00-b2-overview.md) | B2 | 導入 | ✅ |
@@ -46,9 +57,9 @@
 
 | セクション | 主対象 CEFR | 状態 |
 |---|---|---|
-| [grammar/](./grammar/index.md) | A1〜C2(項目ごとに明示) | index ✅ / 各章 📋 |
+| [grammar/](./grammar/index.md) | A1〜C2(項目ごとに明示) | index ✅ / articles・present-tense・past-tenses ✅ / 他 📋 |
 | [verb-conjugation/](./verb-conjugation/index.md) | A1〜C1 | index ✅ / 各章 📋 |
-| [vocabulary/](./vocabulary/index.md) | A1〜C2(リストごとに明示) | index ✅ / 各章 📋 |
+| [vocabulary/](./vocabulary/index.md) | A1〜C2(リストごとに明示) | index ✅ / core-500(4分冊)✅ / 他 📋 |
 | [idioms/](./idioms/index.md) | B1〜C2 | index ✅ / 各章 📋 |
 | [reading/](./reading/index.md) | A1〜C2(段階別) | index ✅ / 各章 📋 |
 | [listening/](./listening/index.md) | A1〜C2(段階別) | index ✅ / 各章 📋 |
