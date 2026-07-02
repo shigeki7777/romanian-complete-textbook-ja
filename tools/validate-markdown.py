@@ -36,7 +36,8 @@ def validate(root: Path) -> int:
         text = md.read_text(encoding="utf-8")
         # These files document the forbidden cedilla forms as explicit warnings
         cedilla_exempt = name in ("STYLE_GUIDE.md", "02-pronunciation-overview.md",
-                                  "01-pronunciation-and-alphabet.md")
+                                  "01-pronunciation-and-alphabet.md",
+                                  "09-writing-simple-sentences.md")
         for ch, label in ({} if cedilla_exempt else CEDILLA).items():
             if ch in text:
                 n = text.count(ch)
