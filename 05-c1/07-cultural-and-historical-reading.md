@@ -140,9 +140,9 @@
 
 > **(1)** În fiecare societate, tradițiile și modernitatea conviețuiesc într-un echilibru care se renegociază mereu. România nu face excepție. Multe obiceiuri, transmise din generație în generație, își păstrează forma, chiar dacă sensul lor se schimbă odată cu viața modernă. A observa cum se poartă astăzi un obicei vechi înseamnă a citi, într-un fel, întreaga relație dintre trecut și prezent.
 >
-> **(2)** Un exemplu adesea amintit este mărțișorul, oferit la începutul primăverii. Se spune că micul obiect, purtând de obicei un șnur împletit în alb și roșu, ar simboliza sosirea primăverii și urarea de bine. Fiind un gest mărunt, dar încărcat de semnificație, mărțișorul este considerat de mulți un simbol al reînnoirii. Astăzi, alături de forma tradițională, se găsesc și variante moderne, ceea ce arată cum un obicei vechi se adaptează, fără a dispărea.
+> **(2)** Un exemplu adesea amintit este mărțișorul, oferit la începutul primăverii. Se spune că micul obiect, purtând de obicei un șnur împletit în alb și roșu, ar simboliza sosirea primăverii și urarea de bine. Oferit mai ales la 1 martie, el este considerat de mulți un dar simbolic, mai degrabă decât unul material. Fiind un gest mărunt, dar încărcat de semnificație, mărțișorul este văzut adesea ca un simbol al reînnoirii. Astăzi, alături de forma tradițională — o floare, o inimă, un obiect simplu —, se găsesc și variante moderne, uneori foarte stilizate. Această coexistență, dintre forma veche și cea nouă, arată cum un obicei transmis din trecut se adaptează, fără a dispărea.
 >
-> **(3)** La fel, sărbătorile de iarnă păstrează, se spune, elemente considerate foarte vechi. Colindele, cântate din casă în casă, sunt adesea descrise ca o punte între comunitate și sărbătoare. Multe dintre aceste obiceiuri, deși trăite azi mai ales ca momente de familie, ar avea, potrivit unor interpretări, rădăcini mult mai adânci. Fără a intra în dispute despre origini, se poate observa că forma lor rezistă, adaptându-se.
+> **(3)** La fel, sărbătorile de iarnă păstrează, se spune, elemente considerate foarte vechi. Colindele, cântate din casă în casă, sunt adesea descrise ca o punte între comunitate și sărbătoare, un moment în care vecinii se adună și cântă împreună. Multe dintre aceste obiceiuri, deși trăite azi mai ales ca momente de familie, ar avea, potrivit unor interpretări, rădăcini mult mai adânci, anterioare formelor de astăzi. Nu toți cercetătorii sunt de acord asupra acestor origini, iar sensurile atribuite variază de la o regiune la alta. Fără a intra în dispute despre origini, se poate observa că forma lor rezistă, reinterpretată de fiecare generație și adaptându-se timpului.
 >
 > **(4)** Ceea ce leagă aceste exemple nu este vechimea în sine, ci felul în care o comunitate alege ce păstrează. Modernitatea nu șterge tradiția, ci o filtrează: unele gesturi dispar, altele se reinventează. Privind astfel lucrurile, tradiția nu apare ca un muzeu, ci ca o conversație — una în care fiecare generație adaugă, cu prudență, propriul cuvânt.
 
@@ -150,9 +150,9 @@
 
 > **(1)** どの社会でも、伝統と現代性は、絶えず結び直される均衡のなかで共存している。ルーマニアも例外ではない。多くの慣習は、世代から世代へと伝えられ、その意味が現代の生活とともに変わっても、かたちを保っている。古い慣習が今日どのように行われているかを観察するとは、ある意味で、過去と現在の関係の全体を読むことにほかならない。
 >
-> **(2)** しばしば挙げられる一例が、春の初めに贈られるマルツィショル(mărțișor)である。ふつう白と赤に編まれた紐を身につけたこの小さな品は、春の到来と幸いの祈りを象徴するとされる。ささやかな仕草でありながら意味に満ちていることから、マルツィショルは多くの人によって再生の象徴とみなされている。今日では、伝統的なかたちと並んで現代的な変種も見られ、それは古い慣習が、消えることなく順応していくさまを示している。
+> **(2)** しばしば挙げられる一例が、春の初めに贈られるマルツィショル(mărțișor)である。ふつう白と赤に編まれた紐を身につけたこの小さな品は、春の到来と幸いの祈りを象徴するとされる。とりわけ3月1日に贈られるこの品は、物としての価値よりも、象徴としての贈り物だと多くの人にみなされている。ささやかな仕草でありながら意味に満ちていることから、マルツィショルはしばしば再生の象徴として見られている。今日では、花・ハート・素朴な品といった伝統的なかたちと並んで、ときに大きく様式化された現代的な変種も見られる。この、古いかたちと新しいかたちの共存は、過去から伝えられた慣習が、消えることなく順応していくさまを示している。
 >
-> **(3)** 同じように、冬の祝祭も、非常に古いとされる要素を保っているといわれる。家から家へと歌われるコリンド(colinde、祝歌)は、しばしば共同体と祝祭とをつなぐ橋として描かれる。これらの慣習の多くは、今日ではとりわけ家族の時間として生きられているものの、一部の解釈によれば、はるかに深い根を持つとされる。起源をめぐる論争に立ち入ることなく、そのかたちが、順応しながら、生き続けていることは観察できる。
+> **(3)** 同じように、冬の祝祭も、非常に古いとされる要素を保っているといわれる。家から家へと歌われるコリンド(colinde、祝歌)は、しばしば共同体と祝祭とをつなぐ橋——隣人たちが集い、共に歌う一つのひととき——として描かれる。これらの慣習の多くは、今日ではとりわけ家族の時間として生きられているものの、一部の解釈によれば、今日のかたち以前にさかのぼる、はるかに深い根を持つとされる。研究者の誰もがこうした起源について一致しているわけではなく、そこに与えられる意味も地方によって異なる。起源をめぐる論争に立ち入ることなく、そのかたちが、各世代によって解釈し直され、時代に順応しながら、生き続けていることは観察できる。
 >
 > **(4)** これらの例を結ぶのは、古さそのものではなく、共同体が「何を保つか」を選ぶそのしかたである。現代性は伝統を消し去るのではなく、それを漉(こ)している——ある仕草は消え、別のものは作り直される。このように物事を眺めると、伝統は博物館としてではなく、一つの対話として立ち現れる——どの世代も、慎重に、自らの言葉を書き加えていく対話として。
 
