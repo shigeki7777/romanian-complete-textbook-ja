@@ -184,7 +184,7 @@ voi 型の3人称単数 **va** は、見た目が紛らわしい。a avea の現
 | poimâine | 副 | /poj.ˈmɨi.ne/ | 明後日 | apoi + mâine | Poimâine vine trenul. | 明後日その列車が来る。 | A2 | 時 |
 | diseară | 副 | /diˈse̯a.rə/ | 今夜 | de + seară | Diseară merg la film. | 今夜映画に行く。 | A2 | 時 |
 | săptămâna viitoare | 句 | /səp.təˈmɨ.na vi.iˈto̯a.re/ | 来週 | 週+「来たる」 | Săptămâna viitoare o să fiu liber. | 来週は暇になる。 | A2 | 時 |
-| anul viitor | 句 | /ˈa.nul vi.iˈtor/ | 来年 | 年+「来たる」 | Anul viitor o să mă mut. | 来年引っ越すつもりだ。 | A2 | 時 |
+| anul viitor | 句 | /ˈa.nul vi.iˈtor/ | 来年 | 年+「来たる」 | Anul viitor o să merg în Japonia. | 来年日本に行くつもりだ。 | A2 | 時 |
 | în curând | 句 | /ɨn kuˈrɨnd/ | まもなく | in + curând(すぐ) | Ne vedem în curând. | 近いうちに会おう。 | A2 | 時 |
 | plan / planuri | 名中 | /plan/ /ˈpla.nurʲ/ | 計画・予定 | フランス語 plan | Ce planuri ai? | どんな予定? | A2 | 予定 |
 | a pleca | 動 | /a pleˈka/ | 発つ・出発する | ラテン語 plicare | Mâine plec. | 明日発つ。 | A2 | 移動 |
