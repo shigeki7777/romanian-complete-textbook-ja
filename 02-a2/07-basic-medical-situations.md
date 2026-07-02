@@ -262,7 +262,7 @@ a. Chemați o ambulanță!  b. Aveți ceva pentru durere de gât?  c. Vreau să 
 — 場面の緊急度で言葉が変わる。路上の急変は迷わず 112 と Chemați o ambulanță!。
 
 ### 問題4
-1. **stomacul**(解剖学的な胃) 2. **Am gripă**(インフルエンザは gripă。räcit は軽い風邪) 3. **simt**(a se simți=感じる。a durea ではない)。
+1. **stomacul**(解剖学的な胃) 2. **Am gripă**(インフルエンザは gripă。răcit は軽い風邪) 3. **simt**(a se simți=感じる。a durea ではない)。
 — ⚠ の3点そのもの。stomac/burtă、răcit/gripă の取り違えは症状の誤申告につながる。
 
 ### 問題5

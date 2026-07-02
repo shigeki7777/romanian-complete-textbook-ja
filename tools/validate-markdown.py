@@ -15,7 +15,8 @@ import re
 import sys
 from pathlib import Path
 
-CEDILLA = {"ş": "ş(cedilla)", "ţ": "ţ(cedilla)", "Ş": "Ş(cedilla)", "Ţ": "Ţ(cedilla)"}
+CEDILLA = {"ş": "ş(cedilla)", "ţ": "ţ(cedilla)", "Ş": "Ş(cedilla)", "Ţ": "Ţ(cedilla)",
+           "ä": "ä(non-Romanian umlaut, use ă)", "Ä": "Ä(non-Romanian umlaut, use Ă)"}
 LEVEL_DIRS = {"01-a1", "02-a2", "03-b1", "04-b2", "05-c1", "06-c2"}
 # Required in numbered chapter files (except overview/answer-key/bridge/test which vary)
 REQUIRED_SECTIONS = ["この章の目標"]
