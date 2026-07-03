@@ -33,6 +33,7 @@
 |---|---|---|
 | Guvernul Republicii Moldova | 行政制度 | https://gov.md/ |
 | Biroul Național de Statistică | 統計 | https://statistica.gov.md/ |
+| Serviciul Național Unic pentru Apelurile de Urgență 112 | モルドバの統一緊急番号 112 | https://112.md/ |
 
 ## EU / NATO / 国際機関
 
