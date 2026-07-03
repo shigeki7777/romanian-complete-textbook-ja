@@ -63,6 +63,14 @@
 | ConstitutionNet | モルドバ言語改正の手続き | https://constitutionnet.org/news/unpacking-moldovas-language-amendment-constitutional-procedural-and-political-dimensions |
 | RFE/RL(報道・現代事情の補助) | モルドバ言語法可決 | https://www.rferl.org/a/moldova-parliament-approves-final-reading-romanian-language-bill/32321571.html |
 
+## 現代史の主要一次出典(history 章)
+
+| 出典 | 用途 | URL |
+|---|---|---|
+| Wiesel Commission 最終報告書(INSHR-EW) | ルーマニアのホロコースト関与 | https://www.inshr-ew.ro/ |
+| Memorialul Victimelor Comunismului(シゲト記念館) | 共産期の弾圧 | https://www.memorialsighet.ro/ |
+| Council of the EU / European Commission プレスリリース | シェンゲン加入(2024 空海・2025 陸)・CVM 終了(2023) | https://www.consilium.europa.eu/ / https://ec.europa.eu/ |
+
 ## 百科・補助出典(注記付き)
 
 - Encyclopædia Britannica および英語版 Wikipedia の個別記事を、**争いのない通史的事実のアンカー**として補助的に使用している(各章末に記事 URL を記載)。SOURCE_POLICY の趣旨に照らし、可能な箇所から順次、政府・学術一次出典へ置き換えることを推奨する(進捗は PROGRESS.md「出典確認が必要な箇所」で管理)。
