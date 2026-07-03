@@ -10,9 +10,9 @@
 
 | ファイル | 内容 | 主対象 CEFR | 状態 |
 |---|---|---|---|
-| `regular-verbs.md` | 4活用グループ(-a, -ea, -e, -i/-î)の規則活用パターンと語尾変化表 | A1〜A2 | 📋 計画済み |
-| `irregular-verbs.md` | a fi, a avea, a putea, a merge, a vrea など主要不規則動詞の語幹交替パターン別一覧 | A1〜B1 | 📋 計画済み |
-| `essential-100-verbs.md` | 頻出動詞100個の全時制・全法活用表(直説法・接続法・条件法・命令法) | A1〜B1 | 📋 計画済み |
+| [regular-verbs.md](./regular-verbs.md) | 4活用グループ(-a, -ea, -e, -i/-î)の規則活用パターンを代表7動詞の1動詞1枚完全表で提示(全時制・全法) | A1〜A2 | ✅ 執筆済み |
+| [irregular-verbs.md](./irregular-verbs.md) | 最重要不規則12動詞(a fi, a avea, a vrea, a putea, a ști, a da, a sta, a lua, a bea, a mânca, a veni, a face)の完全表 + 不規則パターン解説 | A1〜B1 | ✅ 執筆済み |
+| [essential-100-verbs.md](./essential-100-verbs.md) | 頻出100動詞のコンパクト一覧(不定詞・群・1単現・3単現・過去分詞・接続法3人称・訳・例文の8列) | A1〜B1 | ✅ 執筆済み |
 | `full-conjugation-tables.md` | 全時制・全法・全人称を網羅したフルコンジュゲーション表(参照専用の総合版) | A1〜C1 | 📋 計画済み |
 | `reflexive-verb-tables.md` | 再帰動詞(a se spăla, a se gândi など)の再帰代名詞込み活用表 | A2〜B1 | 📋 計画済み |
 | `medical-verbs.md` | 症状説明・診察で使う動詞(a durea, a examina, a prescrie など)の活用と用例 | B1〜C1 | 📋 計画済み |

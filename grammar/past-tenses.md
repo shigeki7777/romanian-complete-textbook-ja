@@ -182,7 +182,7 @@ Eram acasă.(私は家にいた)、Aveam o pisică.(私は猫を飼っていた)
 | tu | lucrași | |
 | el, ea | lucră | |
 | noi | lucrarăm | |
-| voi | lucrarăt | |
+| voi | lucrarăți | |
 | ei, ele | lucrară | |
 
 小説を読むと「zise el(と彼は言った)」「făcu(彼はした)」のような3人称単純過去に頻繁に出会う。**「-se / -u で終わる見慣れない3人称は単純過去だ」と分かれば読解上は十分**である。詳しい活用は B2 の文体章 `04-b2/grammar/perfectul-simplu.md`(未執筆)に譲る。
