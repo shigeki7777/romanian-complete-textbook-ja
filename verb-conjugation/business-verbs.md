@@ -18,8 +18,8 @@
 | a semna（I-ez) | semnez | semnat | să semneze | 署名する・契約する | Semnăm contractul mâine.（明日契約に署名します) |
 | a negocia（I-ez) | negociez | negociat | să negocieze | 交渉する | Negociem prețul.（価格を交渉します) |
 | a rezilia（I-ez) | reziliez | reziliat | să rezilieze | (契約を)解除する | Putem rezilia contractul.（契約を解除できます) |
-| a încheia（I-ez) | închei | încheiat | să încheie | (契約を)締結する・結ぶ | Am încheiat un acord.（合意を結んだ) |
-| a modifica（I-ez) | modific | modificat | să modifice | 変更する・修正する | Modificăm clauza a treia.（第3条を変更します) |
+| a încheia（I素・準不規則) | închei | încheiat | să încheie | (契約を)締結する・結ぶ | Am încheiat un acord.（合意を結んだ) |
+| a modifica（I素) | modific | modificat | să modifice | 変更する・修正する | Modificăm clauza a treia.（第3条を変更します) |
 | a respecta（I素) | respect | respectat | să respecte | (契約を)守る・遵守する | Respectăm termenul.（納期を守ります) |
 
 **注記**: ⚠ **a rezilia(契約を解除する)は a anula(取り消す)と別語**([business/contracts.md](../business/contracts.md) の誤読リスク)。a rezilia は継続中の契約を将来に向けて終了させること、a anula は無効化・取り消し。a încheia は eu 形が închei(-i が語幹に融合)で、-ez は付かない準不規則。
@@ -68,7 +68,7 @@
 | a aproba（I素) | aprob | aprobat | să aprobe | 承認する | Directorul a aprobat proiectul.（部長が承認した) |
 | a propune（III) | propun | propus | să propună | 提案する | Propun o alternativă.（代替案を提案します) |
 | a decide（III) | decid | decis | să decidă | 決定する | Am decis să amânăm.（延期を決めた) |
-| a confirma（I-ez) | confirm | confirmat | să confirme | 確認・確定する | Confirm participarea.（出席を確認します) |
+| a confirma（I素) | confirm | confirmat | să confirme | 確認・確定する | Confirm participarea.（出席を確認します) |
 | a anula（I-ez) | anulez | anulat | să anuleze | 取り消す・中止する | Anulăm ședința de mâine.（明日の会議を中止) |
 | a amâna（I素) | amân | amânat | să amâne | 延期する | Amânăm decizia.（決定を延期します) |
 
@@ -119,6 +119,8 @@
 | Clientul nu a plătit încă factura. | /kli.ˈen.tul nu a pləˈtit ˈɨn.kə ˈfak.tu.ra/ | 顧客はまだ請求書を支払っていない | 顧客-その ない (助) 支払った まだ 請求書-その | a plăti 複合過去の否定。主語=買い手 | 報告・中立 |
 | Directorul a aprobat bugetul. | /di.rekˈto.rul a a.proˈbat buˈd͡ʒe.tul/ | 部長が予算を承認した | 部長-その (助) 承認した 予算-その | a aproba 複合過去(-at)。eu は aprob(素) | 報告・中立 |
 | Propun să amânăm decizia. | /proˈpun sə aˈmɨ.nəm deˈt͡ʃi.zi.a/ | 決定の延期を提案します | 提案する そう 延期する 決定-その | a propune(III)+ a amâna(素) | 会議・中立 |
+| Am angajat trei persoane luna aceasta. | /am an.ɡaˈʒat trej perˈso̯a.ne ˈlu.na aˈt͡ʃe̯as.ta/ | 今月3名を採用した | (助) 雇った 三 人 月-その この | a angaja 複合過去(-at) | 報告・中立 |
+| Dacă semnați azi, livrăm săptămâna viitoare. | /ˈda.kə semˈnat͡sʲ azʲ liˈvrəm səp.təˈmɨ.na vi.iˈto̯a.re/ | 本日ご署名いただければ来週納品します | もし 署名する 今日 納品する 週-その 次の | 条件節 dacă + 現在(a semna / a livra) | 交渉・丁寧 |
 
 ---
 
@@ -146,7 +148,28 @@
 
 ---
 
-## 10. 学習の指針
+## 10. 動詞から派生する名詞(契約・書類は名詞化が多い)
+
+ビジネスの書き言葉(契約書・請求書・議事録)は動詞より**派生名詞**を多用する。動詞と名詞をペアで覚えると、[business/contracts.md](../business/contracts.md)・[business/emails.md](../business/emails.md) の読解が楽になる。以下は本ページ収録動詞の主な派生名詞である(いずれも本編に登場)。
+
+| 動詞 | 派生名詞 | IPA | 名詞の意味 |
+|---|---|---|---|
+| a factura | **factură**（名女) | /ˈfak.tu.rə/ | 請求書 |
+| a plăti | **plată**（名女) | /ˈpla.tə/ | 支払 |
+| a negocia | **negociere**（名女) | /ne.ɡo.t͡ʃiˈe.re/ | 交渉 |
+| a livra | **livrare**（名女) | /liˈvra.re/ | 納品・配送 |
+| a comanda | **comandă**（名女) | /koˈman.də/ | 注文・発注 |
+| a angaja | **angajare / angajat**（名女/名) | /an.ɡaˈʒa.re/ | 雇用 / 従業員 |
+| a demisiona | **demisie**（名女) | /de.miˈsi.e/ | 退職・辞職 |
+| a investi | **investiție / investitor**（名女/名) | /in.vesˈti.t͡si.e/ | 投資 / 投資家 |
+| a rezilia | **reziliere**（名女) | /re.zi.liˈe.re/ | 契約解除 |
+| a decide | **decizie**（名女) | /deˈt͡ʃi.zi.e/ | 決定 |
+
+第 I 群・第 IV 群動詞は不定詞長形(-are / -ire)がそのまま名詞になり(a livra→livrare)、ラテン借用語は -ție 型名詞(investiție, decizie)を持つことが多い。**⚠ factură(請求書)と comandă(注文)と ofertă(見積・オファー)の混同**、**a rezilia の名詞 reziliere(契約解除)と anulare(取消)の混同**は、書類の読み違えに直結する高リスク項目である([business/contracts.md](../business/contracts.md) の ⚠)。
+
+---
+
+## 11. 学習の指針
 
 1. ビジネス第 I 群は**まず -ez 型を疑う**(外来・新語が多いため)。素の型(a aproba, a amâna, a respecta, a achita)は例外として個別に覚える。
 2. **a plăti(支払う)/ a factura(請求する)の主語の非対称**を最優先で押さえる。金銭の流れを読み違えないための急所。

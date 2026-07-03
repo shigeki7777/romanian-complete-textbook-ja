@@ -43,10 +43,10 @@
 | 不定詞 | 現在形 | 過去分詞 | 接続法3人称 | 訳 | 典型文 |
 |---|---|---|---|---|---|
 | **a durea**（下記特殊) | mă doare / mă dor | durut | să doară | 痛む | Mă doare capul.（頭が痛い) |
-| a se simți（IV-esc・再帰) | mă simt | simțit | să se simtă | (体調を)感じる | Mă simt rău.（気分が悪い) |
+| a se simți（IV素・再帰) | mă simt | simțit | să se simtă | (体調を)感じる | Mă simt rău.（気分が悪い) |
 | a respira（I素) | respir | respirat | să respire | 呼吸する | Respirați adânc.（深呼吸してください) |
-| a tuși（IV素) | tușesc | tușit | să tușească | 咳をする | Tușesc de trei zile.（3日間咳が出る) |
-| a vomita / a vărsa（I-ez / I素) | vomit / vărs | vomitat / vărsat | să vomite / să verse | 吐く・嘔吐する | Am vărsat de două ori.（2回吐いた) |
+| a tuși（IV-esc) | tușesc | tușit | să tușească | 咳をする | Tușesc de trei zile.（3日間咳が出る) |
+| a vomita / a vărsa（I素 / I素) | vomit / vărs | vomitat / vărsat | să vomite / să verse | 吐く・嘔吐する | Am vărsat de două ori.（2回吐いた) |
 | a sângera（I-ez) | sângerez | sângerat | să sângereze | 出血する | Rana sângerează.（傷が出血している) |
 | a ameți（IV-esc) | amețesc | amețit | să amețească | めまいがする | Amețesc când mă ridic.（立つとめまいがする) |
 | a leșina（I素) | leșin | leșinat | să leșine | 失神する | A leșinat brusc.（急に気を失った) |
@@ -72,7 +72,7 @@ a durea は**3人称単数(doare)・3人称複数(dor)しか使わない**。「
 
 | 不定詞 | 現在形(eu/noi) | 過去分詞 | 接続法3人称 | 訳 | 典型文 |
 |---|---|---|---|---|---|
-| a recolta（I素) | recoltez / recoltăm | recoltat | să recolteze | (検体を)採取する | Vă recoltăm sânge.（採血します) |
+| a recolta（I-ez) | recoltez / recoltăm | recoltat | să recolteze | (検体を)採取する | Vă recoltăm sânge.（採血します) |
 | a analiza（I-ez) | analizez | analizat | să analizeze | 分析する・検査する | Analizăm sângele.（血液を分析します) |
 | a vaccina（I-ez) | vaccinez | vaccinat | să vaccineze | ワクチン接種する | Vă vaccinăm astăzi.（今日接種します) |
 | a opera（I-ez) | operez | operat | să opereze | 手術する | Trebuie să vă operăm.（手術が必要です) |
@@ -92,7 +92,7 @@ a durea は**3人称単数(doare)・3人称複数(dor)しか使わない**。「
 | a recomanda（I素) | recomand | recomandat | să recomande | 勧める・推奨する | Vă recomand repaus.（安静を勧めます) |
 | a administra（I-ez) | administrez | administrat | să administreze | (薬を)投与する | Se administrează de două ori pe zi.（1日2回投与) |
 | a lua（不規則) | iau | luat | să ia | (薬を)飲む・服用する | Luați o pastilă seara.（夜に1錠飲んでください) |
-| a urma（I素) | urmez | urmat | să urmeze | (治療を)続ける・従う | Urmați tratamentul complet.（治療を最後まで続けて) |
+| a urma（I-ez) | urmez | urmat | să urmeze | (治療を)続ける・従う | Urmați tratamentul complet.（治療を最後まで続けて) |
 
 **注記**: a prescrie は第 III 群で分詞が -s(prescris)。a lua は最重要不規則(iau/iei/ia/luăm/luați/iau、[grammar/present-tense.md](../grammar/present-tense.md) §5.3)。服薬の「飲む」は a bea ではなく **a lua**(a lua medicamente)を使う点に注意。
 
@@ -173,7 +173,28 @@ a durea は**3人称単数(doare)・3人称複数(dor)しか使わない**。「
 
 ---
 
-## 10. 学習の指針
+## 10. 動詞から派生する名詞(医療は名詞化が多い)
+
+医療の書き言葉(検査票・診断書・処方箋)は、動詞そのものより**動詞から派生した名詞**を多用する。動詞と名詞をペアで覚えると、[medical/medical-documents.md](../medical/medical-documents.md) の読解が一気に楽になる。以下は本ページ収録動詞の主な派生名詞である(いずれも本編に登場)。
+
+| 動詞 | 派生名詞 | IPA | 名詞の意味 |
+|---|---|---|---|
+| a consulta | **consultație**（名女) | /kon.sulˈta.t͡si.e/ | 診察 |
+| a recomanda | **recomandare**（名女) | /re.ko.manˈda.re/ | 推奨・勧め |
+| a prescrie | **prescripție**（名女) | /pres.kripˈt͡si.e/ | 処方(箋) |
+| a vaccina | **vaccinare**（名女) | /vak.t͡ʃiˈna.re/ | ワクチン接種 |
+| a interna | **internare**（名女) | /in.terˈna.re/ | 入院 |
+| a externa | **externare**（名女) | /eks.terˈna.re/ | 退院 |
+| a analiza | **analiză / analize**（名女) | /aˈna.li.zə/ | 検査・分析(複数で「血液検査」) |
+| a administra | **administrare**（名女) | /ad.mi.nisˈtra.re/ | (薬の)投与 |
+| a durea | **durere**（名女) | /duˈre.re/ | 痛み |
+| a respira | **respirație**（名女) | /res.piˈra.t͡si.e/ | 呼吸 |
+
+第 I 群・第 IV 群の動詞は不定詞の長形(-are / -ere)がそのまま「〜すること」の名詞になる(a interna→internare)。ラテン借用語は -ție 型名詞(consultație, prescripție, respirație)を持つことが多い。**⚠ consult(受診・相談、名男/中)と consultație(診察、名女)**、**prescripție(処方箋)と rețetă(処方箋・レシピ、口語)**のように、同義でレジスターの違うペアがある点に注意する。
+
+---
+
+## 11. 学習の指針
 
 1. まず **a durea の構文**(Mă doare + 部位)を丸ごと暗記する。医療会話の頻度が突出して高い。
 2. 症状・体調は再帰(**a se simți / a se odihni / a se interna**)が多い。再帰代名詞を落とさない([reflexive-verb-tables.md](./reflexive-verb-tables.md))。
