@@ -19,18 +19,18 @@
 | ファイル | 内容 | 主対象 CEFR | 状態 |
 |---|---|---|---|
 | [`overview.md`](./overview.md) | ルーマニア史全体の概観(通史10節+主要年表) | 読み物(レベル非依存) | ✅ 完了 |
-| `ancient-and-dacian-history.md` | ダキア人と古代の歴史、ダキア王国 | B2〜C1 | 📋 計画済み |
-| `romanization.md` | ローマ帝国による征服とラテン化、ルーマニア語の起源 | B2〜C1 | 📋 計画済み |
-| `medieval-principalities.md` | ワラキア・モルダヴィアなど中世諸公国の成立と発展 | B2〜C1 | 📋 計画済み |
-| `ottoman-habsburg-russian-influence.md` | オスマン帝国・ハプスブルク帝国・ロシア帝国の影響下の時代 | C1 | 📋 計画済み |
-| `modern-romania.md` | 近代ルーマニアの成立(統一・独立・王国の時代) | B1〜B2 | 📋 計画済み |
-| `communist-period.md` | 共産主義体制の成立から1989年革命までの歴史 | C1 | 📋 計画済み |
-| `post-1989-romania.md` | 1989年革命後の民主化・市場経済移行と現代史 | C1〜C2 | 📋 計画済み |
-| `eu-and-nato.md` | EU・NATO 加盟の経緯と制度的な影響 | C1〜C2 | 📋 計画済み |
+| [`ancient-and-dacian-history.md`](./ancient-and-dacian-history.md) | ダキア人と古代の歴史、ダキア王国 | B2〜C1 | ✅ 完了 |
+| [`romanization.md`](./romanization.md) | ローマ帝国による征服とラテン化、ルーマニア語の起源 | B2〜C1 | ✅ 完了 |
+| [`medieval-principalities.md`](./medieval-principalities.md) | ワラキア・モルダヴィアなど中世諸公国の成立と発展 | B2〜C1 | ✅ 完了 |
+| [`ottoman-habsburg-russian-influence.md`](./ottoman-habsburg-russian-influence.md) | オスマン帝国・ハプスブルク帝国・ロシア帝国の影響下の時代 | C1 | ✅ 完了 |
+| [`modern-romania.md`](./modern-romania.md) | 近代ルーマニアの成立(統一・独立・王国の時代) | B1〜B2 | ✅ 完了 |
+| [`communist-period.md`](./communist-period.md) | 共産主義体制の成立から1989年革命までの歴史 | C1 | ✅ 完了 |
+| [`post-1989-romania.md`](./post-1989-romania.md) | 1989年革命後の民主化・市場経済移行と現代史 | C1〜C2 | ✅ 完了 |
+| [`eu-and-nato.md`](./eu-and-nato.md) | EU・NATO 加盟の経緯と制度的な影響 | C1〜C2 | ✅ 完了 |
 | [`language-history.md`](./language-history.md) | ルーマニア語の言語史(ラテン語からの発展、借用の層、正書法の変遷、モルドバの言語名) | 読み物(C1〜C2 相当) | ✅ 完了 |
 
 ## 学習の目安
 
-`overview.md` と `modern-romania.md` は比較的平易にまとめる予定であり、本編 B1〜B2 の段階から並行して読み始めることを推奨する。`ottoman-habsburg-russian-influence.md` `communist-period.md` `post-1989-romania.md` `eu-and-nato.md` `language-history.md` は複雑な文構造と専門語彙を含むため、本編 C1 以降に取り組むことを推奨する。
+`overview.md` と `modern-romania.md` は比較的平易にまとめてあり、本編 B1〜B2 の段階から並行して読み始めることを推奨する。`ottoman-habsburg-russian-influence.md` `communist-period.md` `post-1989-romania.md` `eu-and-nato.md` `language-history.md` は複雑な文構造と専門語彙を含むため、本編 C1 以降に取り組むことを推奨する(このうち `communist-period.md` `post-1989-romania.md` `eu-and-nato.md` は完成済み)。
 
 [README(全体目次)](../README.md)

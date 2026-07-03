@@ -43,6 +43,7 @@
 | European Union 公式 | EU 加盟(2007)・制度 | https://european-union.europa.eu/ |
 | EUR-Lex | EU 法令 | https://eur-lex.europa.eu/ |
 | NATO 公式 | NATO 加盟(2004) | https://www.nato.int/ |
+| UNESCO World Heritage Centre | 世界遺産(ダキア要塞群・彩色修道院等) | https://whc.unesco.org/ |
 | 112 — 欧州共通緊急通報番号(EU 公式) | 緊急時(medical/emergency) | https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency-numbers/ |
 
 ## 学術・言語史
