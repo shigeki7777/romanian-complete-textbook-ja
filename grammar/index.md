@@ -35,11 +35,11 @@
 | [word-order.md](./word-order.md) | 基本語順(SVO)と自由語順、情報構造・話題化・焦点化による語順変化、弱形代名詞の位置、形容詞前置の意味効果 | B1〜B2 | ✅ 執筆済み |
 | [negation.md](./negation.md) | 否定辞 nu の位置、二重否定の義務、nici … nici、否定と縮約、否定疑問への応答(ba da) | A1〜B1 | ✅ 執筆済み |
 | [questions.md](./questions.md) | 疑問詞疑問文・Yes/No 疑問文の作り方、疑問詞の格変化(cui/pe cine)、care と ce、間接疑問、付加疑問 | A1〜B1 | ✅ 執筆済み |
-| `relative-clauses.md` | 関係代名詞 care の格変化を伴う関係節、前置詞+care の構文 | B1〜B2 | 📋 計画済み |
-| `subordinate-clauses.md` | 時・理由・条件・譲歩を表す従属節と、それぞれが要求する法(直説法/接続法) | B1〜B2 | 📋 計画済み |
-| `reported-speech.md` | 間接話法における時制の一致、話法動詞に応じた că / să の使い分け | B2 | 📋 計画済み |
-| `discourse-markers.md` | 談話標識(deci, așadar, oricum, totuși など)によるテキストの結束性構築 | B2 | 📋 計画済み |
-| `advanced-syntax.md` | 倒置・強調構文・分詞構文・複雑な従属節の入れ子など、上級レジスターの統語 | C1〜C2 | 📋 計画済み |
+| [relative-clauses.md](./relative-clauses.md) | 関係代名詞 care の格変化を伴う関係節、前置詞+care の構文 | B1〜B2 | ✅ 執筆済み |
+| [subordinate-clauses.md](./subordinate-clauses.md) | 時・理由・条件・譲歩を表す従属節と、それぞれが要求する法(直説法/接続法) | B1〜B2 | ✅ 執筆済み |
+| [reported-speech.md](./reported-speech.md) | 間接話法における時制の一致、話法動詞に応じた că / să の使い分け | B2 | ✅ 執筆済み |
+| [discourse-markers.md](./discourse-markers.md) | 談話標識(deci, așadar, oricum, totuși など)によるテキストの結束性構築 | B2 | ✅ 執筆済み |
+| [advanced-syntax.md](./advanced-syntax.md) | 倒置・強調構文・分詞構文・複雑な従属節の入れ子など、上級レジスターの統語 | C1〜C2 | ✅ 執筆済み |
 
 ## 学習の目安
 
