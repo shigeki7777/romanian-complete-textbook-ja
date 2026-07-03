@@ -24,6 +24,7 @@
 | CEASS — Cardul European de Asigurări Sociale de Sănătate(発行: CNAS) | 欧州健康保険カード(ルーマニア側) | https://www.cardeuropean.ro/ |
 | European Commission — EHIC | 欧州健康保険カード(EU 側) | https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/european-health-insurance-card_en |
 | European Commission — 112 | EU 共通緊急番号 | https://digital-strategy.ec.europa.eu/en/policies/112 |
+| Eurydice(EU 教育情報ネットワーク)— Romania | 教育制度 | https://eurydice.eacea.ec.europa.eu/eurypedia/romania |
 | Ministerul Educației (教育省) | 教育制度 | https://www.edu.ro/ |
 | INS — Institutul Național de Statistică (国家統計局) | 人口・統計 | https://insse.ro/ |
 
