@@ -21,14 +21,14 @@
 | [`emails.md`](./emails.md) | ビジネスメールの基本形式、書き出し・結びの定型表現、依頼・断りのメール | B1〜B2 | ✅ 執筆済み |
 | [`meetings.md`](./meetings.md) | 会議招集・アジェンダ・議事録・オンライン会議・フォローアップの周辺実務 | B2 | ✅ 執筆済み |
 | [`presentations.md`](./presentations.md) | ビジネスプレゼンの構成語彙、数字・グラフの説明、質疑応答、エレベーターピッチ | B2 | ✅ 執筆済み |
-| `negotiation.md` | 価格交渉・条件交渉の言い回し、譲歩と主張のバランスの取り方 | C1 | 📋 計画済み |
-| `contracts.md` | 契約書の基本構造と頻出語彙の読解(免責付き) | C1 | 📋 計画済み |
+| [`negotiation.md`](./negotiation.md) | 価格・納期・スコープの争点別交渉パターン集、書面での条件提示、口頭合意の文書化への移行(免責付き) | B2〜C1 | ✅ 執筆済み |
+| [`contracts.md`](./contracts.md) | 書類フロー(見積→発注→契約→請求)の実務言語、act adițional・支払条件・NDA の語彙(強化免責付き) | C1 | ✅ 執筆済み |
 | [`startups.md`](./startups.md) | 起業・資金調達・スタートアップ特有の語彙、ピッチの型 | B2〜C1 | ✅ 執筆済み |
 | [`sales.md`](./sales.md) | 営業トーク・商談・アフターフォローの言い回し | B2 | ✅ 執筆済み |
 | [`hr.md`](./hr.md) | 採用面接・内定・人事評価に関する語彙と対話(企業側視点) | B2 | ✅ 執筆済み |
 | [`finance.md`](./finance.md) | 財務諸表・会計・税務の基本語彙 | C1 | ✅ 執筆済み |
 | [`consulting.md`](./consulting.md) | コンサルティング現場での提案・報告の語彙と言い回し | C1〜C2 | ✅ 執筆済み |
-| `cross-cultural-communication.md` | 日本とルーマニアのビジネス文化差、誤解が生じやすい場面の解説 | C2 | 📋 計画済み |
+| [`cross-cultural-communication.md`](./cross-cultural-communication.md) | 日本・ルーマニア間の文化差を言語で埋める(断り・沈黙・率直さ・締切・褒め謝り・通訳)、ステレオタイプ回避 | B2 | ✅ 執筆済み |
 
 ## 学習の目安
 
