@@ -19,12 +19,12 @@
 | [`overview.md`](./overview.md) | 医療ルーマニア語セクションの全体像、ルーマニア・モルドバの医療制度の概要、本セクションの学習順序 | A2〜B1 | ✅ 執筆済み |
 | [`anatomy.md`](./anatomy.md) | 体の部位・臓器・器官の語彙、日本語との区切り方の違い | A2〜B1 | ✅ 執筆済み |
 | [`symptoms.md`](./symptoms.md) | 痛み・発熱・消化器症状などの基本的な症状表現、程度・頻度の伝え方 | A2〜B1(症状の質・問診は B1) | ✅ 執筆済み |
-| `diagnosis.md` | 診断結果・検査結果の説明を理解する読解語彙、病名・症候群の表現 | B2〜C1 | 📋 計画済み |
-| `hospital-dialogues.md` | 受付・診察室・入院病棟での対話例、予約変更や検査説明のやり取り | B1〜B2 | 📋 計画済み |
-| `patient-interview.md` | 医師による問診への応答、既往歴・アレルギー・服薬歴の伝え方 | B1 | 📋 計画済み |
-| `medication.md` | 薬局での会話、処方箋の読み方、用法・用量・副作用の語彙 | B1 | 📋 計画済み |
-| `emergency.md` | 救急要請(112番)、緊急時の症状描写、迅速に伝えるべき最重要情報 | B1〜B2 | 📋 計画済み |
-| `informed-consent.md` | インフォームドコンセント文書の語彙と構造、同意・拒否の意思表示 | C1 | 📋 計画済み |
+| [`diagnosis.md`](./diagnosis.md) | 診断結果・検査結果の説明を理解する読解語彙、病名・症候群の表現 | B2〜C1 | ✅ 執筆済み |
+| [`hospital-dialogues.md`](./hospital-dialogues.md) | 受付・診察室・入院病棟での対話例、予約変更や検査説明のやり取り | B1〜B2 | ✅ 執筆済み |
+| [`patient-interview.md`](./patient-interview.md) | 医師による問診への応答、既往歴・アレルギー・服薬歴の伝え方 | B1 | ✅ 執筆済み |
+| [`medication.md`](./medication.md) | 薬局での会話、処方箋の読み方、用法・用量・副作用の語彙 | B1 | ✅ 執筆済み |
+| [`emergency.md`](./emergency.md) | 救急要請(112番)、緊急時の症状描写、迅速に伝えるべき最重要情報 | B1〜B2 | ✅ 執筆済み |
+| [`informed-consent.md`](./informed-consent.md) | インフォームドコンセント文書の語彙と構造、同意・拒否の意思表示 | C1 | ✅ 執筆済み |
 | `medical-interpretation.md` | 医療通訳者としての役割・倫理・中立性、通訳特有の言い回し | C1 | 📋 計画済み |
 | `medical-documents.md` | 診断書・紹介状・退院サマリーなど医療文書の読解 | C1 | 📋 計画済み |
 | `japanese-romanian-medical-glossary.md` | 日羅対訳の医療用語集(⚠ 誤訳リスク表示付き) | 参照用 | 📋 計画済み |
