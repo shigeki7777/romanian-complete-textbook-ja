@@ -260,4 +260,4 @@ Modalitate de plată: transfer bancar
 
 [ビジネス索引](./index.md) | [README](../README.md)
 
-ナビゲーション: 前章: `hr.md`(採用・人事、計画済み) | [ビジネス索引](./index.md) | 次章: [コンサルティング →](./consulting.md)
+ナビゲーション: [← 人事(採用・評価)](./hr.md) | [ビジネス索引](./index.md) | 次章: [コンサルティング →](./consulting.md)
