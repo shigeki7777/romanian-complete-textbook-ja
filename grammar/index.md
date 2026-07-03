@@ -12,29 +12,29 @@
 
 | ファイル | 内容 | 主対象 CEFR | 状態 |
 |---|---|---|---|
-| `phonetics-and-orthography.md` | 音韻体系と正書法(DOOM3 準拠)、ダイアクリティクス(ă/â/î/ș/ț)、î/â の使い分け規則 | A1 | 📋 計画済み |
+| [phonetics-and-orthography.md](./phonetics-and-orthography.md) | 音韻体系と正書法(DOOM3 準拠)、ダイアクリティクス(ă/â/î/ș/ț)、î/â の使い分け規則、母音交替・子音交替の総整理 | A1〜A2 | ✅ 執筆済み |
 | [articles.md](./articles.md) | 定冠詞(articol hotărât、後置型)・不定冠詞(articol nehotărât)・属格冠詞(articol posesiv/genitival)の形態と使い分け | A1〜A2 | ✅ 執筆済み |
-| `nouns.md` | 名詞の単数・複数形、語尾変化パターン、名詞化 | A1〜A2 | 📋 計画済み |
-| `gender.md` | 男性(masculin)・女性(feminin)・中性(neutru)の3性体系、中性名詞が単数で男性・複数で女性として振る舞う規則 | A1〜A2 | 📋 計画済み |
+| [nouns.md](./nouns.md) | 名詞の単数・複数形、語尾変化パターン、名詞化(-re 動名詞・-tor 行為者) | A1〜B1 | ✅ 執筆済み |
+| [gender.md](./gender.md) | 男性(masculin)・女性(feminin)・中性(neutru)の3性体系、中性名詞が単数で男性・複数で女性として振る舞う規則、職業名詞の男女形 | A1〜A2 | ✅ 執筆済み |
 | [cases.md](./cases.md) | 格(caz)体系(主格・対格・与格・属格・呼格)、名詞・冠詞・形容詞の格変化 | A2〜B1 | ✅ 執筆済み |
-| `adjectives.md` | 形容詞の性・数一致、比較級・最上級、位置による意味変化 | A1〜A2 | 📋 計画済み |
+| [adjectives.md](./adjectives.md) | 形容詞の性・数一致(4形/3形/2形/不変化)、比較級・最上級、位置による意味変化、名詞化 | A1〜B1 | ✅ 執筆済み |
 | [pronouns.md](./pronouns.md) | 人称代名詞・所有代名詞・指示代名詞・関係代名詞・与格/対格の弱形代名詞(clitic) | A1〜B1 | ✅ 執筆済み |
-| `numerals.md` | 基数詞・序数詞、名詞との性一致、19以降の数の作り方 | A1〜A2 | 📋 計画済み |
-| `verbs-overview.md` | 動詞体系の全体像、活用グループ(4群)の見取り図、時制・法の一覧表 | A1 | 📋 計画済み |
+| [numerals.md](./numerals.md) | 基数詞・序数詞、名詞との性一致、19以降の数の作り方、分数・小数・パーセント、日付・年号・時刻・金額 | A1〜B1 | ✅ 執筆済み |
+| [verbs-overview.md](./verbs-overview.md) | 動詞体系の全体像、活用グループ(4群)の見取り図、時制・法の一覧表 | A1〜B1 | ✅ 執筆済み |
 | [present-tense.md](./present-tense.md) | 直説法現在(prezentul indicativ)の用法、進行中の動作・習慣・近接未来としての用法 | A1 | ✅ 執筆済み |
 | [past-tenses.md](./past-tenses.md) | 複合過去(perfectul compus)・半過去(imperfectul)・単純過去(perfectul simplu)・大過去(mai-mult-ca-perfectul)の使い分け | A2〜B1 | ✅ 執筆済み |
-| `future-tenses.md` | 単純未来・口語未来(o să)・前未来(viitorul anterior)の使い分けとレジスター差 | A2〜B1 | 📋 計画済み |
+| [future-tenses.md](./future-tenses.md) | 単純未来・口語未来(o să)・前未来(viitorul anterior)の使い分けとレジスター差 | A2〜B1 | ✅ 執筆済み |
 | [subjunctive.md](./subjunctive.md) | 接続法(conjunctiv)の形態(să + 動詞)と、意志・目的・可能性を表す用法 | A2〜B1 | ✅ 執筆済み |
 | [conditional.md](./conditional.md) | 条件法(conditional-optativ)現在形・過去形、仮定文における接続法との組み合わせ | B1 | ✅ 執筆済み |
-| `imperative.md` | 命令法(imperativ)の肯定形・否定形、丁寧な依頼表現との使い分け | A2〜B1 | 📋 計画済み |
-| `infinitive-gerund-participle.md` | 不定詞(infinitiv)・動名詞(gerunziu)・過去分詞(participiu)の形態と構文上の役割 | B1〜B2 | 📋 計画済み |
-| `reflexive-verbs.md` | 再帰動詞(verb reflexiv)の再帰代名詞、真の再帰・相互・受動的再帰の区別 | A2〜B1 | 📋 計画済み |
-| `modal-verbs.md` | 法動詞(a putea, a trebui, a vrea など)の構文と、接続法との結合パターン | A2〜B1 | 📋 計画済み |
-| `prepositions.md` | 前置詞(prepoziție)ごとの格支配、日本語の助詞との対応の違い | A2〜B1 | 📋 計画済み |
-| `conjunctions.md` | 等位接続詞・従属接続詞(接続法を要求するものを含む) | A2〜B1 | 📋 計画済み |
-| `word-order.md` | 基本語順(SVO)と自由語順、話題化・焦点化による語順変化 | A1〜B1 | 📋 計画済み |
-| `negation.md` | 否定辞 nu の位置、二重否定、否定疑問文への応答 | A1〜A2 | 📋 計画済み |
-| `questions.md` | 疑問詞疑問文・Yes/No疑問文の作り方、イントネーションと語順 | A1〜A2 | 📋 計画済み |
+| [imperative.md](./imperative.md) | 命令法(imperativ)の肯定形・否定形、丁寧な依頼表現との使い分け | B1 | ✅ 執筆済み |
+| [infinitive-gerund-participle.md](./infinitive-gerund-participle.md) | 不定詞(infinitiv)・ジェルンジウ(gerunziu)・過去分詞(participiu)・スピーヌ(supin)の形態と構文上の役割 | B1〜B2 | ✅ 執筆済み |
+| [reflexive-verbs.md](./reflexive-verbs.md) | 再帰動詞(verb reflexiv)の再帰代名詞(対格 mă / 与格 îmi の2系統)、真の再帰・相互・受動的再帰・非人称の区別 | A2〜B1 | ✅ 執筆済み |
+| [modal-verbs.md](./modal-verbs.md) | 法動詞(a putea, a trebui, a vrea, a ști, a avea voie)の構文と、接続法との結合パターン | A2〜B1 | ✅ 執筆済み |
+| [prepositions.md](./prepositions.md) | 前置詞(prepoziție)ごとの格支配、pe の対格マーカー用法、前置詞後の冠詞脱落、日本語の助詞との対応の違い | A1〜B2 | ✅ 執筆済み |
+| [conjunctions.md](./conjunctions.md) | 等位接続詞・従属接続詞(接続法を要求するものを含む)、că と să の使い分け、iar の「一方」用法 | A2〜B2 | ✅ 執筆済み |
+| [word-order.md](./word-order.md) | 基本語順(SVO)と自由語順、情報構造・話題化・焦点化による語順変化、弱形代名詞の位置、形容詞前置の意味効果 | B1〜B2 | ✅ 執筆済み |
+| [negation.md](./negation.md) | 否定辞 nu の位置、二重否定の義務、nici … nici、否定と縮約、否定疑問への応答(ba da) | A1〜B1 | ✅ 執筆済み |
+| [questions.md](./questions.md) | 疑問詞疑問文・Yes/No 疑問文の作り方、疑問詞の格変化(cui/pe cine)、care と ce、間接疑問、付加疑問 | A1〜B1 | ✅ 執筆済み |
 | `relative-clauses.md` | 関係代名詞 care の格変化を伴う関係節、前置詞+care の構文 | B1〜B2 | 📋 計画済み |
 | `subordinate-clauses.md` | 時・理由・条件・譲歩を表す従属節と、それぞれが要求する法(直説法/接続法) | B1〜B2 | 📋 計画済み |
 | `reported-speech.md` | 間接話法における時制の一致、話法動詞に応じた că / să の使い分け | B2 | 📋 計画済み |
